@@ -1,4 +1,4 @@
-# mysql
+# mysql - Python
 Python code scripts for integrating a mysql database into Python projects
 
 Test Environment:
